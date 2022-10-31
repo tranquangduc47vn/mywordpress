@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sản phẩm &#8211; Trần Quang Đức-501210119</title>
+	<atom:link href="https://tranquangduc47vn.github.io/mywordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tranquangduc47vn.github.io/mywordpress/</link>
+	<description></description>
+	<lastBuildDate>Sat, 29 Oct 2022 15:19:48 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+
+<image>
+	<url>https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/cropped-favicon-1-32x32-1.png</url>
+	<title>Sản phẩm &#8211; Trần Quang Đức-501210119</title>
+	<link>https://tranquangduc47vn.github.io/mywordpress/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>WooLentor template 1667055311</title>
+		<link>https://tranquangduc47vn.github.io/mywordpress/san-pham/woolentor-template-1667055311/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 29 Oct 2022 14:55:11 +0000</pubDate>
+				<guid isPermaLink="false">https://tranquangduc47vn.github.io/mywordpress/woolentor-template/woolentor-template-1667055311/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="586" class="elementor elementor-586">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4cd9fb8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4cd9fb8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5a0f8c3" data-id="5a0f8c3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-8efc35a elementor-grid-5 elementor-product-loop-item--align-center elementor-widget__width-initial elementor-grid-tablet-3 elementor-grid-mobile-2 elementor-products-grid elementor-wc-products elementor-show-pagination-border-yes elementor-widget elementor-widget-woocommerce-products" data-id="8efc35a" data-element_type="widget" data-widget_type="woocommerce-products.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://tranquangduc47vn.github.io/mywordpress/wp-content/plugins/elementor-pro/assets/css/widget-woocommerce.min.css"><div class="woocommerce columns-5 "><div class="storefront-sorting"><div class="woocommerce-notices-wrapper"></div><form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
+					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
+					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
+					<option value="rating" >Thứ tự theo điểm đánh giá</option>
+					<option value="date" >Mới nhất</option>
+					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
+					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	</form>
+<nav class="woocommerce-pagination">
+	<ul class='page-numbers'>
+	<li><span aria-current="page" class="page-numbers current">1</span></li>
+	<li><a class="page-numbers" href="/cua-hang/feed/?product-page=2">2</a></li>
+	<li><a class="page-numbers" href="/cua-hang/feed/?product-page=3">3</a></li>
+	<li><a class="next page-numbers" href="/cua-hang/feed/?product-page=2">&rarr;</a></li>
+</ul>
+</nav>
+</div><ul class="products elementor-grid columns-5">
+<li class="product type-product post-586 status-publish first instock taxable shipping-taxable product-type-simple">
+	<a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/woolentor-template-1667055311/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/woocommerce-placeholder-324x324.png" class="woocommerce-placeholder wp-post-image" alt="Nơi nhập dữ liệu" loading="lazy" srcset="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/woocommerce-placeholder-324x324.png 324w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/woocommerce-placeholder-100x100.png 100w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/woocommerce-placeholder-416x416.png 416w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/woocommerce-placeholder.png 1200w" sizes="(max-width: 324px) 100vw, 324px" /><h2 class="woocommerce-loop-product__title">WooLentor template 1667055311</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+</a><a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/woolentor-template-1667055311/" data-quantity="1" class="button product_type_simple" data-product_id="586" data-product_sku="" aria-label="Đọc thêm về &ldquo;WooLentor template 1667055311&rdquo;" rel="nofollow">Đọc tiếp</a></li>
+<li class="product type-product post-568 status-publish instock product_cat-chua-phan-loai has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/serpenti-viper-28k-rose-gold/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="225" height="225" src="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/vong-tay-pandora-pnj_hehe.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="vòng tay pandora pnj" loading="lazy" srcset="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/vong-tay-pandora-pnj_hehe.jpg 225w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/vong-tay-pandora-pnj_hehe-150x150.jpg 150w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/vong-tay-pandora-pnj_hehe-100x100.jpg 100w" sizes="(max-width: 225px) 100vw, 225px" /><h2 class="woocommerce-loop-product__title">Serpenti Viper 28k Rose Gold</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>340.000,00&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/serpenti-viper-28k-rose-gold/?add-to-cart=568" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="568" data-product_sku="" aria-label="Thêm &ldquo;Serpenti Viper 28k Rose Gold&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-566 status-publish instock product_cat-chua-phan-loai has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/sterling-co-jewelry/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-15-324x324.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-15-324x324.jpg 324w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-15-300x300.jpg 300w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-15-150x150.jpg 150w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-15-768x768.jpg 768w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-15-416x416.jpg 416w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-15-100x100.jpg 100w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-15.jpg 800w" sizes="(max-width: 324px) 100vw, 324px" /><h2 class="woocommerce-loop-product__title">Sterling Co. Jewelry</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>670.000,00&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/sterling-co-jewelry/?add-to-cart=566" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="566" data-product_sku="" aria-label="Thêm &ldquo;Sterling Co. Jewelry&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-565 status-publish instock product_cat-chua-phan-loai has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/gold-and-gold/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-04-324x324.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-04-324x324.jpg 324w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-04-300x300.jpg 300w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-04-150x150.jpg 150w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-04-768x768.jpg 768w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-04-416x416.jpg 416w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-04-100x100.jpg 100w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-04.jpg 800w" sizes="(max-width: 324px) 100vw, 324px" /><h2 class="woocommerce-loop-product__title">Gold and gold</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>450.000,00&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/gold-and-gold/?add-to-cart=565" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="565" data-product_sku="" aria-label="Thêm &ldquo;Gold and gold&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-564 status-publish last instock product_cat-chua-phan-loai has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/lynn-pendant/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-14-324x324.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-14-324x324.jpg 324w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-14-300x300.jpg 300w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-14-150x150.jpg 150w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-14-768x768.jpg 768w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-14-416x416.jpg 416w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-14-100x100.jpg 100w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-14.jpg 800w" sizes="(max-width: 324px) 100vw, 324px" /><h2 class="woocommerce-loop-product__title">Lynn pendant</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>550.000,00&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/lynn-pendant/?add-to-cart=564" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="564" data-product_sku="" aria-label="Thêm &ldquo;Lynn pendant&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-563 status-publish first instock product_cat-chua-phan-loai has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/schlumberger-lynn-pendant/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-02-324x324.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-02-324x324.jpg 324w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-02-300x300.jpg 300w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-02-150x150.jpg 150w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-02-768x768.jpg 768w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-02-416x416.jpg 416w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-02-100x100.jpg 100w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-02.jpg 800w" sizes="(max-width: 324px) 100vw, 324px" /><h2 class="woocommerce-loop-product__title">Schlumberger® Lynn pendant</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>230.000,00&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/schlumberger-lynn-pendant/?add-to-cart=563" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="563" data-product_sku="" aria-label="Thêm &ldquo;Schlumberger® Lynn pendant&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-562 status-publish instock product_cat-chua-phan-loai has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/serpenti-viper-19k-rose-gold/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="225" height="225" src="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/vong-tay-pandora-pnj_loai1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="vòng tay pandora pnj" loading="lazy" srcset="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/vong-tay-pandora-pnj_loai1.jpg 225w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/vong-tay-pandora-pnj_loai1-150x150.jpg 150w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/vong-tay-pandora-pnj_loai1-100x100.jpg 100w" sizes="(max-width: 225px) 100vw, 225px" /><h2 class="woocommerce-loop-product__title">Serpenti Viper 19k Rose Gold</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="onsale">Giảm giá!</span>
+	
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>500.000,00&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>350.000,00&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></span>
+</a><a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/serpenti-viper-19k-rose-gold/?add-to-cart=562" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="562" data-product_sku="" aria-label="Thêm &ldquo;Serpenti Viper 19k Rose Gold&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-561 status-publish instock product_cat-chua-phan-loai has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/touch-of-gold/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-34-324x324.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-34-324x324.jpg 324w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-34-300x300.jpg 300w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-34-150x150.jpg 150w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-34-768x768.jpg 768w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-34-416x416.jpg 416w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-34-100x100.jpg 100w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-34.jpg 800w" sizes="(max-width: 324px) 100vw, 324px" /><h2 class="woocommerce-loop-product__title">Touch of Gold</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>460.000,00&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/touch-of-gold/?add-to-cart=561" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="561" data-product_sku="" aria-label="Thêm &ldquo;Touch of Gold&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-559 status-publish instock product_cat-chua-phan-loai has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/trinity-jewelers-co/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="322" src="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/banner-home2-01-1-324x322.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/banner-home2-01-1-324x322.jpg 324w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/banner-home2-01-1-150x150.jpg 150w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/banner-home2-01-1-100x100.jpg 100w" sizes="(max-width: 324px) 100vw, 324px" /><h2 class="woocommerce-loop-product__title">Trinity Jewelers &#038; Co.</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>234.000,00&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/trinity-jewelers-co/?add-to-cart=559" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="559" data-product_sku="" aria-label="Thêm &ldquo;Trinity Jewelers &amp; Co.&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-557 status-publish last instock product_cat-chua-phan-loai has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/the-velvet-box/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-10-324x324.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-10-324x324.jpg 324w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-10-300x300.jpg 300w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-10-150x150.jpg 150w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-10-768x768.jpg 768w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-10-416x416.jpg 416w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-10-100x100.jpg 100w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-10.jpg 800w" sizes="(max-width: 324px) 100vw, 324px" /><h2 class="woocommerce-loop-product__title">The Velvet Box</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>380.000,00&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/the-velvet-box/?add-to-cart=557" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="557" data-product_sku="" aria-label="Thêm &ldquo;The Velvet Box&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-556 status-publish first instock product_cat-chua-phan-loai has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/the-galleria-of-gems/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-32-324x324.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-32-324x324.jpg 324w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-32-300x300.jpg 300w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-32-150x150.jpg 150w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-32-768x768.jpg 768w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-32-416x416.jpg 416w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-32-100x100.jpg 100w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-32.jpg 800w" sizes="(max-width: 324px) 100vw, 324px" /><h2 class="woocommerce-loop-product__title">The Galleria of Gems</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="onsale">Giảm giá!</span>
+	
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>4.500.000,00&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>1.500.000,00&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></span>
+</a><a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/the-galleria-of-gems/?add-to-cart=556" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="556" data-product_sku="" aria-label="Thêm &ldquo;The Galleria of Gems&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-555 status-publish instock product_cat-chua-phan-loai has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/stone-gold/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-18-324x324.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-18-324x324.jpg 324w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-18-300x300.jpg 300w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-18-150x150.jpg 150w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-18-768x768.jpg 768w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-18-416x416.jpg 416w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-18-100x100.jpg 100w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-18.jpg 800w" sizes="(max-width: 324px) 100vw, 324px" /><h2 class="woocommerce-loop-product__title">Stone Gold</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>550.000,00&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/stone-gold/?add-to-cart=555" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="555" data-product_sku="" aria-label="Thêm &ldquo;Stone Gold&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-553 status-publish instock product_cat-chua-phan-loai has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/schlumberger-lynn/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-38-1-324x324.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-38-1-324x324.jpg 324w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-38-1-300x300.jpg 300w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-38-1-150x150.jpg 150w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-38-1-768x768.jpg 768w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-38-1-416x416.jpg 416w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-38-1-100x100.jpg 100w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-38-1.jpg 800w" sizes="(max-width: 324px) 100vw, 324px" /><h2 class="woocommerce-loop-product__title">Schlumberger® Lynn</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>490.000,00&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/schlumberger-lynn/?add-to-cart=553" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="553" data-product_sku="" aria-label="Thêm &ldquo;Schlumberger® Lynn&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-551 status-publish instock product_cat-chua-phan-loai has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/palomas-studio-hexagon-19k/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-19-324x324.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-19-324x324.jpg 324w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-19-300x300.jpg 300w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-19-150x150.jpg 150w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-19-768x768.jpg 768w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-19-416x416.jpg 416w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-19-100x100.jpg 100w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-19.jpg 800w" sizes="(max-width: 324px) 100vw, 324px" /><h2 class="woocommerce-loop-product__title">Paloma’s Studio hexagon 19k</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>450.000,00&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/palomas-studio-hexagon-19k/?add-to-cart=551" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="551" data-product_sku="" aria-label="Thêm &ldquo;Paloma’s Studio hexagon 19k&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-549 status-publish last instock product_cat-chua-phan-loai has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/pearl-necklace-with-a-silver/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-34-324x324.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-34-324x324.jpg 324w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-34-300x300.jpg 300w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-34-150x150.jpg 150w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-34-768x768.jpg 768w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-34-416x416.jpg 416w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-34-100x100.jpg 100w, https://tranquangduc47vn.github.io/mywordpress/wp-content/uploads/2022/10/product-34.jpg 800w" sizes="(max-width: 324px) 100vw, 324px" /><h2 class="woocommerce-loop-product__title">Pearl Necklace with a Silver</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>350.000,00&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+</a><a href="https://tranquangduc47vn.github.io/mywordpress/san-pham/pearl-necklace-with-a-silver/?add-to-cart=549" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="549" data-product_sku="" aria-label="Thêm &ldquo;Pearl Necklace with a Silver&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+</ul>
+<div class="storefront-sorting"><form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
+					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
+					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
+					<option value="rating" >Thứ tự theo điểm đánh giá</option>
+					<option value="date" >Mới nhất</option>
+					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
+					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	</form>
+<p class="woocommerce-result-count">
+	Hiển thị 1&ndash;15 của 31 kết quả</p>
+<nav class="woocommerce-pagination">
+	<ul class='page-numbers'>
+	<li><span aria-current="page" class="page-numbers current">1</span></li>
+	<li><a class="page-numbers" href="/cua-hang/feed/?product-page=2">2</a></li>
+	<li><a class="page-numbers" href="/cua-hang/feed/?product-page=3">3</a></li>
+	<li><a class="next page-numbers" href="/cua-hang/feed/?product-page=2">&rarr;</a></li>
+</ul>
+</nav>
+</div></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Serpenti Viper 28k Rose Gold</title>
+		<link>https://tranquangduc47vn.github.io/mywordpress/san-pham/serpenti-viper-28k-rose-gold/</link>
+					<comments>https://tranquangduc47vn.github.io/mywordpress/san-pham/serpenti-viper-28k-rose-gold/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 15:40:47 +0000</pubDate>
+				<guid isPermaLink="false">https://tranquangduc47vn.github.io/mywordpress/?post_type=product&#038;p=568</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://tranquangduc47vn.github.io/mywordpress/san-pham/serpenti-viper-28k-rose-gold/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sterling Co. Jewelry</title>
+		<link>https://tranquangduc47vn.github.io/mywordpress/san-pham/sterling-co-jewelry/</link>
+					<comments>https://tranquangduc47vn.github.io/mywordpress/san-pham/sterling-co-jewelry/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 15:39:55 +0000</pubDate>
+				<guid isPermaLink="false">https://tranquangduc47vn.github.io/mywordpress/?post_type=product&#038;p=566</guid>
+
+					<description><![CDATA[This ring is crafted with rose gold and polished by hand for high shine. Wear on its own or partnered with classic silhouettes for an unexpected pairing.
+<ul>
+ 	<li>18k rose gold</li>
+ 	<li>Features Tiffany &#38; Co. hallmark</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<ul>
+<li>Features Tiffany &amp; Co. hallmark</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tranquangduc47vn.github.io/mywordpress/san-pham/sterling-co-jewelry/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Gold and gold</title>
+		<link>https://tranquangduc47vn.github.io/mywordpress/san-pham/gold-and-gold/</link>
+					<comments>https://tranquangduc47vn.github.io/mywordpress/san-pham/gold-and-gold/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 15:38:18 +0000</pubDate>
+				<guid isPermaLink="false">https://tranquangduc47vn.github.io/mywordpress/?post_type=product&#038;p=565</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://tranquangduc47vn.github.io/mywordpress/san-pham/gold-and-gold/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lynn pendant</title>
+		<link>https://tranquangduc47vn.github.io/mywordpress/san-pham/lynn-pendant/</link>
+					<comments>https://tranquangduc47vn.github.io/mywordpress/san-pham/lynn-pendant/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 15:37:55 +0000</pubDate>
+				<guid isPermaLink="false">https://tranquangduc47vn.github.io/mywordpress/?post_type=product&#038;p=564</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://tranquangduc47vn.github.io/mywordpress/san-pham/lynn-pendant/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Schlumberger® Lynn pendant</title>
+		<link>https://tranquangduc47vn.github.io/mywordpress/san-pham/schlumberger-lynn-pendant/</link>
+					<comments>https://tranquangduc47vn.github.io/mywordpress/san-pham/schlumberger-lynn-pendant/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 15:36:35 +0000</pubDate>
+				<guid isPermaLink="false">https://tranquangduc47vn.github.io/mywordpress/?post_type=product&#038;p=563</guid>
+
+					<description><![CDATA[This ring is crafted with rose gold and polished by hand for high shine. Wear on its own or partnered with classic silhouettes for an unexpected pairing.
+<ul>
+ 	<li>18k rose gold</li>
+ 	<li>Features Tiffany &#38; Co. hallmark</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p><span class="sku_wrapper">SKU: <span class="sku" data-o_content="MEGA-JEWE-23">MEGA-JEWE-23</span></span><span class="posted_in">Categories: <a href="https://el3.thembaydev.com/maia/product-category/necklaces-pendants/" rel="tag noopener" target="_blank">Necklaces &amp; Pendants</a><a href="https://el3.thembaydev.com/maia/product-category/wedding/" rel="tag noopener" target="_blank">Wedding</a></span></p>
+<p><span class="tagged_as">Tags: <a href="https://el3.thembaydev.com/maia/product-tag/accessories/" rel="tag noopener" target="_blank">Accessories</a><a href="https://el3.thembaydev.com/maia/product-tag/necklaces/" rel="tag noopener" target="_blank">Necklaces</a><a href="https://el3.thembaydev.com/maia/product-tag/pendants/" rel="tag noopener" target="_blank">Pendants</a></span></p>
+<p><span class="yith-wcbr-brands">Brand: <a href="https://el3.thembaydev.com/maia/product-brands/tiffany-co/" rel="tag noopener" target="_blank">Tiffany &amp; Co.</a></span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tranquangduc47vn.github.io/mywordpress/san-pham/schlumberger-lynn-pendant/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Serpenti Viper 19k Rose Gold</title>
+		<link>https://tranquangduc47vn.github.io/mywordpress/san-pham/serpenti-viper-19k-rose-gold/</link>
+					<comments>https://tranquangduc47vn.github.io/mywordpress/san-pham/serpenti-viper-19k-rose-gold/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 15:26:49 +0000</pubDate>
+				<guid isPermaLink="false">https://tranquangduc47vn.github.io/mywordpress/?post_type=product&#038;p=562</guid>
+
+					<description><![CDATA[This ring is crafted with rose gold and polished by hand for high shine. Wear on its own or partnered with classic silhouettes for an unexpected pairing.
+<ul>
+ 	<li>18k rose gold</li>
+ 	<li>Features Tiffany &#38; Co. hallmark</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p><span class="sku_wrapper">SKU: <span class="sku">MEGA-JEWE-07</span></span><span class="posted_in">Categories: <a href="https://el3.thembaydev.com/maia/product-category/accessories/" rel="tag noopener" target="_blank">Accessories</a><a href="https://el3.thembaydev.com/maia/product-category/wedding/" rel="tag noopener" target="_blank">Wedding</a></span></p>
+<p><span class="tagged_as">Tags: <a href="https://el3.thembaydev.com/maia/product-tag/jewelry/" rel="tag noopener" target="_blank">Jewelry</a><a href="https://el3.thembaydev.com/maia/product-tag/men/" rel="tag noopener" target="_blank">Men</a><a href="https://el3.thembaydev.com/maia/product-tag/necklaces/" rel="tag noopener" target="_blank">Necklaces</a></span></p>
+<p><span class="yith-wcbr-brands">Brand: <a href="https://el3.thembaydev.com/maia/product-brands/paloma-picasso/" rel="tag noopener" target="_blank">Paloma Picasso®</a></span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tranquangduc47vn.github.io/mywordpress/san-pham/serpenti-viper-19k-rose-gold/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Touch of Gold</title>
+		<link>https://tranquangduc47vn.github.io/mywordpress/san-pham/touch-of-gold/</link>
+					<comments>https://tranquangduc47vn.github.io/mywordpress/san-pham/touch-of-gold/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 15:25:35 +0000</pubDate>
+				<guid isPermaLink="false">https://tranquangduc47vn.github.io/mywordpress/?post_type=product&#038;p=561</guid>
+
+					<description><![CDATA[This ring is crafted with rose gold and polished by hand for high shine. Wear on its own or partnered with classic silhouettes for an unexpected pairing.
+<ul>
+ 	<li>18k rose gold</li>
+ 	<li>Features Tiffany &#38; Co. hallmark</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<ul>
+<li>18k rose gold</li>
+<li>Features Tiffany &amp; Co. hallmark</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tranquangduc47vn.github.io/mywordpress/san-pham/touch-of-gold/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Trinity Jewelers &#038; Co.</title>
+		<link>https://tranquangduc47vn.github.io/mywordpress/san-pham/trinity-jewelers-co/</link>
+					<comments>https://tranquangduc47vn.github.io/mywordpress/san-pham/trinity-jewelers-co/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 15:23:59 +0000</pubDate>
+				<guid isPermaLink="false">https://tranquangduc47vn.github.io/mywordpress/?post_type=product&#038;p=559</guid>
+
+					<description><![CDATA[This ring is crafted with rose gold and polished by hand for high shine. Wear on its own or partnered with classic silhouettes for an unexpected pairing.
+<ul>
+ 	<li>18k rose gold</li>
+ 	<li>Features Tiffany &#38; Co. hallmark</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p><span class="sku_wrapper">SKU: <span class="sku">MEGA-JEWE-08</span></span><span class="posted_in">Categories: <a href="https://el3.thembaydev.com/maia/product-category/diamonds/" rel="tag noopener" target="_blank">Diamonds</a><a href="https://el3.thembaydev.com/maia/product-category/wedding/" rel="tag noopener" target="_blank">Wedding</a></span></p>
+<p><span class="tagged_as">Tags: <a href="https://el3.thembaydev.com/maia/product-tag/accessories/" rel="tag noopener" target="_blank">Accessories</a><a href="https://el3.thembaydev.com/maia/product-tag/men/" rel="tag noopener" target="_blank">Men</a><a href="https://el3.thembaydev.com/maia/product-tag/necklaces/" rel="tag noopener" target="_blank">Necklaces</a><a href="https://el3.thembaydev.com/maia/product-tag/pendants/" rel="tag noopener" target="_blank">P endants</a></span></p>
+<p><span class="yith-wcbr-brands">Brand: <a href="https://el3.thembaydev.com/maia/product-brands/schlumberger/" rel="tag noopener" target="_blank">Schlumberger®</a></span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tranquangduc47vn.github.io/mywordpress/san-pham/trinity-jewelers-co/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Velvet Box</title>
+		<link>https://tranquangduc47vn.github.io/mywordpress/san-pham/the-velvet-box/</link>
+					<comments>https://tranquangduc47vn.github.io/mywordpress/san-pham/the-velvet-box/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 15:21:18 +0000</pubDate>
+				<guid isPermaLink="false">https://tranquangduc47vn.github.io/mywordpress/?post_type=product&#038;p=557</guid>
+
+					<description><![CDATA[This ring is crafted with rose gold and polished by hand for high shine. Wear on its own or partnered with classic silhouettes for an unexpected pairing.
+<ul>
+ 	<li>18k rose gold</li>
+ 	<li>Features Tiffany &#38; Co. hallmark</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p><span class="sku_wrapper">SKU: <span class="sku">MEGA-JEWE-10</span></span><span class="posted_in">Categories: <a href="https://el3.thembaydev.com/maia/product-category/earrings/" rel="tag noopener" target="_blank">Earrings</a><a href="https://el3.thembaydev.com/maia/product-category/gifts-set/" rel="tag noopener" target="_blank">Gifts set</a></span></p>
+<p><span class="tagged_as">Tags: <a href="https://el3.thembaydev.com/maia/product-tag/earrings/" rel="tag noopener" target="_blank">Earrings</a><a href="https://el3.thembaydev.com/maia/product-tag/jewelry/" rel="tag noopener" target="_blank">Jewelry</a><a href="https://el3.thembaydev.com/maia/product-tag/pendants/" rel="tag noopener" target="_blank">Pendants</a><a href="https://el3.thembaydev.com/maia/product-tag/rings/" rel="tag noopener" target="_blank">Rings</a><a href="https://el3.thembaydev.com/maia/product-tag/wedding/" rel="tag noopener" target="_blank">Wedding</a></span></p>
+<p><span class="yith-wcbr-brands">Brand: <a href="https://el3.thembaydev.com/maia/product-brands/atlas/" rel="tag noopener" target="_blank">Atlas®</a></span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tranquangduc47vn.github.io/mywordpress/san-pham/the-velvet-box/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
